@@ -31,6 +31,7 @@ Desarrolle tests unitarios en
 para probar la corrección de cada una de las soluciones.
 Aparte de los tests públicos de Jutge, incluya algunos tests adicionales para comprobar situaciones que
 considere relevantes.
+Si su solución se basa en varias funciones, desarrolle tests para cada una de ellas.
 
 1. [P29973](https://jutge.org/problems/P29973) Triangle
 2. [P34279](https://jutge.org/problems/P34279) Add one Second.
