@@ -14,6 +14,12 @@ Se señalan a continuación los aspectos más relevantes (la lista no es exhaust
 que se tendrán en cuenta a la hora de evaluar esta práctica:
 * Se valorará la realización de las diferentes tareas que se proponen
 * El alumnado ha de ser capaz de desarrollar tests unitarios para sus programas utilizando Jest.
+* El alumnado ha de acreditar que conoce la herramienta 
+[ESLint](https://eslint.org/)
+y que es capaz de trabajar con la misma en Visual Studio Code.
+* El alumnado ha de acreditar que conoce la herramienta 
+[JSDoc](https://jsdoc.app/)
+y que es capaz de generar documentación para sus programas utilizando la herramienta.
 * El alumnado debe ser capaz de resolver problemas de la plataforma Exercism, subiendo sus soluciones a la misma.
 * El alumnado ha de acreditar que es capaz de desarrollar y ejecutar programas simples de la plataforma Jutge
 * Se comprobará que el código que el alumnado escribe se adhiere a las reglas de la Guía de Estilo de Google
@@ -25,6 +31,12 @@ que se tendrán en cuenta a la hora de evaluar esta práctica:
 Para cada uno de los siguientes problemas de 
 [Jutge](https://jutge.org/)
 haga que la entrada de los programas se tome por línea de comandos.
+
+Haga que los programas incluyan documentación en formato JSDoc, genere la documentación en formato HTML para
+cada uno de los programas y haga que dicha documentación sea accesible a través de una web alojada en su
+máquina virtual.
+Se propone desarrollar una página *índice* desde la que se enlacen las páginas de documentación de cada uno de
+estos programas.
 
 Desarrolle tests unitarios en 
 [Jest](https://jestjs.io/)
