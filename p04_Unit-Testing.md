@@ -37,6 +37,9 @@ Cuando todos los problemas queden desbloqueados, su registro de actividad en Exe
 que se muestra en 
 [esta
 imagen](https://raw.githubusercontent.com/ULL-ESIT-PAI-2021-2022/2021-2022-PAI-P04-UnitTesting/master/ExActivity.png)
+
+![JS Activity](https://raw.githubusercontent.com/ULL-ESIT-PAI-2021-2022/2021-2022-PAI-P04-UnitTesting/master/ExActivity.png)
+
 en la que los problemas realizados aparecen marcados en un círculo verde, los que están "en progreso" aparecen
 con un círculo azul y los problemas disponibles pero aún no realizados aparecen en un círculo en blanco.
 
