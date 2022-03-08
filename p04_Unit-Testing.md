@@ -41,14 +41,14 @@ que se muestra en esta imagen:
 en la que los problemas realizados aparecen marcados en un círculo verde, los que están "en progreso" aparecen
 con un círculo azul y los problemas disponibles pero aún no realizados aparecen en un círculo en blanco.
 
-Para cada uno de los problemas que resuelva, estudie los tests que proporciona Exercism y que su código ha de
+Para cada uno de los ejercicios que resuelva, estudie los tests proporcionados por Exercism que su código ha de
 pasar para considerar resuelto el problema.
 
 Una vez alcanzado este punto resuelva los siguientes problemas:
-[Perfect Numbers](https://exercism.org/tracks/javascript/exercises/perfect-numbers)
-[Nth Prime](https://exercism.org/tracks/javascript/exercises/nth-prime)
-[ISBN Verifier](https://exercism.org/tracks/javascript/exercises/isbn-verifier)
-[Sum of Multiples](https://exercism.org/tracks/javascript/exercises/sum-of-multiples)
+* [Perfect Numbers](https://exercism.org/tracks/javascript/exercises/perfect-numbers)
+* [Nth Prime](https://exercism.org/tracks/javascript/exercises/nth-prime)
+* [ISBN Verifier](https://exercism.org/tracks/javascript/exercises/isbn-verifier)
+* [Sum of Multiples](https://exercism.org/tracks/javascript/exercises/sum-of-multiples)
 
 ### Unit Testing con Jest
 Para cada uno de los siguientes problemas de 
