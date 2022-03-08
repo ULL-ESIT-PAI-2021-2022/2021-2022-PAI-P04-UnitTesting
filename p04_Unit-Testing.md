@@ -32,19 +32,19 @@ para probar la corrección de cada una de las soluciones.
 Aparte de los tests públicos de Jutge, incluya algunos tests adicionales para comprobar situaciones que
 considere relevantes.
 
-2. [P29973](https://jutge.org/problems/P29973) Triangle
-4. [P70955](https://jutge.org/problems/P70955) How many seconds are they?
-5. [P34279](https://jutge.org/problems/P34279) Add one Second.
-7. [P51126](https://jutge.org/problems/P51126) Intervals (I)
-8. [P33839](https://jutge.org/problems/P33839) Sum of Digits. Para este problema, simplifique la salida de
+1. [P29973](https://jutge.org/problems/P29973) Triangle
+2. [P34279](https://jutge.org/problems/P34279) Add one Second.
+3. [P51126](https://jutge.org/problems/P51126) Intervals (I)
+4. [P33839](https://jutge.org/problems/P33839) Sum of Digits. Para este problema, simplifique la salida de
 modo que ésta se limite a un único número (la suma de los dígitos).
-10. [P80660](https://jutge.org/problems/P80660) The sequence of Collatz
+5. [P80660](https://jutge.org/problems/P80660) The sequence of Collatz
 
-1. [P11916](https://jutge.org/problems/P11916_en) Approximation of e
-2. [P67268](https://jutge.org/problems/P67268_en) Reverse of sequences
-3. [P50497](https://jutge.org/problems/P50497_en) Is Palindrome
-4. [P76024](https://jutge.org/problems/P76024_en) Sum of fractions
-5. [P17179](https://jutge.org/problems/P17179_en) Statistical measures
+6. [P11916](https://jutge.org/problems/P11916_en) Approximation of e. Simplifique la salida del programa para
+que se limite a un solo número en punto flotante (el valor de e).
+7. [P67268](https://jutge.org/problems/P67268_en) Reverse of sequences
+8. [P50497](https://jutge.org/problems/P50497_en) Is Palindrome
+9. [P76024](https://jutge.org/problems/P76024_en) Sum of fractions
+10. [P17179](https://jutge.org/problems/P17179_en) Statistical measures
 
 
 
