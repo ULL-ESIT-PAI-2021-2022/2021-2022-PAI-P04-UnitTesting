@@ -3,7 +3,7 @@
 
 ### Objetivos
 Los objetivos de esta práctica son:
-* Conocer y configurar el entorno de trabajo de Exercism
+* Ser capaz de desarrollar tests unitarios en Jest para sus programas Javascript
 * Ser capaz de desarrollar programas simples en JavaScript en el entorno Linux de la VM de la asignatura usando
   Node.js
 
@@ -11,7 +11,8 @@ Los objetivos de esta práctica son:
 Se señalan a continuación los aspectos más relevantes (la lista no es exhaustiva)
 que se tendrán en cuenta a la hora de evaluar esta práctica:
 * Se valorará la realización de las diferentes tareas que se proponen
-* El alumnado debe ser capaz de subir la solución a un problema de Exercism a esa plataforma
+* El alumnado ha de ser capaz de desarrollar tests unitarios para sus programas utilizando Jest.
+* El alumnado debe ser capaz de resolver problemas de la plataforma Exercism, subiendo sus soluciones a la misma.
 * El alumnado ha de acreditar que es capaz de desarrollar y ejecutar programas simples de la plataforma Jutge
 * Se comprobará que el código que el alumnado escribe se adhiere a las reglas de la Guía de Estilo de Google
   para Javascript
