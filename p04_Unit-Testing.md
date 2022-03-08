@@ -27,6 +27,10 @@ y que es capaz de generar documentación para sus programas utilizando la herram
 * Acreditar que es capaz de editar ficheros de forma remota en su VM usando Visual Studio
   Code (VSC)
 
+### Trabajo previo
+Estudie las transparencias y ejemplos del trabajo presentado en clase sobre Unit Testing y la plataforma 
+[Jest](https://jestjs.io/).
+
 ### Ejercicios de Exercism
 Estudie todos los conceptos que se exponen en el 
 [itinerario de aprendizaje](https://exercism.org/tracks/javascript/concepts) 
@@ -46,9 +50,9 @@ pasar para considerar resuelto el problema.
 
 Una vez alcanzado este punto resuelva los siguientes problemas:
 * [Perfect Numbers](https://exercism.org/tracks/javascript/exercises/perfect-numbers)
+* [Sum of Multiples](https://exercism.org/tracks/javascript/exercises/sum-of-multiples)
 * [Nth Prime](https://exercism.org/tracks/javascript/exercises/nth-prime)
 * [ISBN Verifier](https://exercism.org/tracks/javascript/exercises/isbn-verifier)
-* [Sum of Multiples](https://exercism.org/tracks/javascript/exercises/sum-of-multiples)
 
 ### Unit Testing con Jest
 Para cada uno de los siguientes problemas de 
