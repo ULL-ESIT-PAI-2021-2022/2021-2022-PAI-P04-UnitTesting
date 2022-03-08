@@ -3,7 +3,9 @@
 
 ### Objetivos
 Los objetivos de esta práctica son:
-* Ser capaz de desarrollar tests unitarios en Jest para sus programas Javascript
+* Ser capaz de desarrollar tests unitarios en 
+[Jest](https://jestjs.io/)
+para sus programas Javascript
 * Ser capaz de desarrollar programas simples en JavaScript en el entorno Linux de la VM de la asignatura usando
   Node.js
 
@@ -24,7 +26,9 @@ Para cada uno de los siguientes problemas de
 [Jutge](https://jutge.org/)
 haga que la entrada de los programas se tome por línea de comandos.
 
-Desarrolle tests unitarios en Jest para probar la corrección de cada una de las soluciones.
+Desarrolle tests unitarios en  
+[Jest](https://jestjs.io/)
+para probar la corrección de cada una de las soluciones.
 Aparte de los tests públicos de Jutge, incluya algunos tests adicionales para comprobar situaciones que
 considere relevantes.
 
