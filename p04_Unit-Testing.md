@@ -24,6 +24,7 @@ y que es capaz de generar documentación para sus programas utilizando la herram
 * Acreditar que es capaz de desarrollar y ejecutar programas simples de la plataforma Jutge
 * Se comprobará que el código que el alumnado escribe se adhiere a las reglas de la Guía de Estilo de Google
   para Javascript
+* Todas las prácticas realizadas hasta la fecha, incluída la que se presenta para su evaluación, se encuentran alojadas en repositorios privados de GitHub.
 * Acreditar que es capaz de editar ficheros de forma remota en su VM usando Visual Studio
   Code (VSC)
 
